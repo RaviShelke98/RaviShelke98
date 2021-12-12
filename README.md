@@ -38,6 +38,6 @@
 
 <a href = "https://www.linkedin.com/in/ravindra-shelke/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/ravi_shelke98/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
 </p>
