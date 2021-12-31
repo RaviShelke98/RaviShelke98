@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shelkeravindra002@gmail.com**
 
-- ⚡ Fun fact **play Cricket & chess, Watch Movies, Travel And Explore New place Thing**
+- ⚡ Fun fact **play Cricket & chess, Watch Movies, Travelling**
 
 ## 🚀 Languages and Tools:
 
