@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently studying in **Master Of Computer Application (M.C.A)** *(Expected 2022) at a <a href="http://www.atestc.com/">ATES Technical campus Akole</a>,* **SPPU University, Pune**
+- 🎓 I have graduated in **Master Of Computer Application (M.C.A)** *(Expected 2022) at a <a href="http://www.atestc.com/">ATES Technical campus Akole</a>,* **SPPU University, Pune**
 
-- 🌱 I’m  track for learn ***core spring*** and ***hibernate*** framework of java language
+- 🌱 I’m  track for learn ***springBoot*** and ***Angular*** framework for Backend and Frontend Tech.
 
-- 👯 I’m looking new opportunity
+- 👯 Working as Software Developer
 
 - 📫 How to reach me **shelkeravindra002@gmail.com**
 
